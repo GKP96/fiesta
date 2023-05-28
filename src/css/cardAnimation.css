@@ -1,0 +1,24 @@
+.card-animation {
+    transition: transform 0.2s ease-in both;
+    
+}
+
+.card-animation:hover {
+    transform: translateY(-25px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+}
+
+.white {
+    color: white;
+}
+
+.bol {
+    font-weight: bold
+}
+
+
+
+.animation {
+    transition: transform 0.20s ease-out both;
+    
+}
+
+.animation:hover {
+    transform: translateY(5px);
+    color: rgb(0, 83, 236);
+}
